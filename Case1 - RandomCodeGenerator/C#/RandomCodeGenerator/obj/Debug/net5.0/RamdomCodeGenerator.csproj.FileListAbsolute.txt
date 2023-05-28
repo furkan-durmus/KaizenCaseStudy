@@ -1,0 +1,64 @@
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\bin\Debug\net5.0\RamdomCodeGenerator.exe
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\bin\Debug\net5.0\RamdomCodeGenerator.deps.json
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\bin\Debug\net5.0\RamdomCodeGenerator.runtimeconfig.json
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\bin\Debug\net5.0\RamdomCodeGenerator.runtimeconfig.dev.json
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\bin\Debug\net5.0\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\bin\Debug\net5.0\RamdomCodeGenerator.pdb
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\obj\Debug\net5.0\RamdomCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\obj\Debug\net5.0\RamdomCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\obj\Debug\net5.0\RamdomCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\obj\Debug\net5.0\RamdomCodeGenerator.AssemblyInfo.cs
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\obj\Debug\net5.0\RamdomCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\obj\Debug\net5.0\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\obj\Debug\net5.0\refint\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\obj\Debug\net5.0\RamdomCodeGenerator.pdb
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\obj\Debug\net5.0\RamdomCodeGenerator.genruntimeconfig.cache
+C:\Users\fd\Desktop\Projeler\Test\Test1\ConsoleApp1\obj\Debug\net5.0\ref\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.exe
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.deps.json
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.runtimeconfig.json
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.runtimeconfig.dev.json
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.pdb
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.AssemblyInfo.cs
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net5.0\refint\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.pdb
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.genruntimeconfig.cache
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\RandomCodeGenerator\obj\Debug\net5.0\ref\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.exe
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.deps.json
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.runtimeconfig.json
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.runtimeconfig.dev.json
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.pdb
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.AssemblyInfo.cs
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\refint\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.pdb
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.genruntimeconfig.cache
+C:\Users\fd\Desktop\KaizenTasks\Task1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\ref\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.exe
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.deps.json
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.runtimeconfig.json
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.runtimeconfig.dev.json
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\bin\Debug\net5.0\RamdomCodeGenerator.pdb
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.AssemblyInfo.cs
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\refint\RamdomCodeGenerator.dll
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.pdb
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\RamdomCodeGenerator.genruntimeconfig.cache
+C:\Users\fd\Desktop\KaizenCaseStudy\Case1 - RandomCodeGenerator\C#\RandomCodeGenerator\obj\Debug\net5.0\ref\RamdomCodeGenerator.dll

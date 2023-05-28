@@ -1,0 +1,34 @@
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\bin\Debug\net6.0\JsonToText.exe
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\bin\Debug\net6.0\JsonToText.deps.json
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\bin\Debug\net6.0\JsonToText.runtimeconfig.json
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\bin\Debug\net6.0\JsonToText.dll
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\bin\Debug\net6.0\JsonToText.pdb
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\obj\Debug\net6.0\JsonToText.csproj.AssemblyReference.cache
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\obj\Debug\net6.0\JsonToText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\obj\Debug\net6.0\JsonToText.AssemblyInfoInputs.cache
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\obj\Debug\net6.0\JsonToText.AssemblyInfo.cs
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\obj\Debug\net6.0\JsonToText.csproj.CoreCompileInputs.cache
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\obj\Debug\net6.0\JsonToText.csproj.CopyComplete
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\obj\Debug\net6.0\JsonToText.dll
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\obj\Debug\net6.0\refint\JsonToText.dll
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\obj\Debug\net6.0\JsonToText.pdb
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\obj\Debug\net6.0\JsonToText.genruntimeconfig.cache
+C:\Users\fd\Desktop\KaizenTasks\Taks2\JsonToText\JsonToText\JsonToText\obj\Debug\net6.0\ref\JsonToText.dll
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\bin\Debug\net6.0\JsonToText.exe
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\bin\Debug\net6.0\JsonToText.deps.json
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\bin\Debug\net6.0\JsonToText.runtimeconfig.json
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\bin\Debug\net6.0\JsonToText.dll
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\bin\Debug\net6.0\JsonToText.pdb
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\obj\Debug\net6.0\JsonToText.csproj.AssemblyReference.cache
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\obj\Debug\net6.0\JsonToText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\obj\Debug\net6.0\JsonToText.AssemblyInfoInputs.cache
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\obj\Debug\net6.0\JsonToText.AssemblyInfo.cs
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\obj\Debug\net6.0\JsonToText.csproj.CoreCompileInputs.cache
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\obj\Debug\net6.0\JsonToText.csproj.CopyComplete
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\obj\Debug\net6.0\JsonToText.dll
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\obj\Debug\net6.0\refint\JsonToText.dll
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\obj\Debug\net6.0\JsonToText.pdb
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\obj\Debug\net6.0\JsonToText.genruntimeconfig.cache
+C:\Users\fd\Desktop\KaizenCaseStudy\Case2 - InvoiceToText\InvoiceToText\InvoiceToText\JsonToText\obj\Debug\net6.0\ref\JsonToText.dll

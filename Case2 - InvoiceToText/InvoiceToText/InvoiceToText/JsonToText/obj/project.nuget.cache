@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dAgA7mN1zvUfSycNe16cPiLT9sIK/GwYczX8l1jCS/yt9YslIFgSP1r0cSrf2YAex5jteWmoN+lSXB2dIYiaVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fd\\Desktop\\KaizenCaseStudy\\Case2 - InvoiceToText\\InvoiceToText\\InvoiceToText\\JsonToText\\JsonToText.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fd\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
